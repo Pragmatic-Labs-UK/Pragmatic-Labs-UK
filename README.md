@@ -56,21 +56,17 @@
 ### ⬛ SYSTEM.TELEMETRY // METRICS
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pragmatic-Labs-UK&theme=tokyonight" width="100%" alt="Profile Details" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragmatic-Labs-UK&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF" alt="GitHub Commit Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pragmatic-Labs-UK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC&icon_color=00E5FF" alt="GitHub Stats" width="49%" />
 </div>
 
 <br/>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Pragmatic-Labs-UK&theme=tokyonight" width="100%" alt="Top Languages" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pragmatic-Labs-UK&theme=tokyonight" width="100%" alt="Stats" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/github/followers/Pragmatic-Labs-UK?label=FOLLOWERS&style=for-the-badge&color=00E5FF&labelColor=0D1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Pragmatic-Labs-UK?label=TOTAL%20STARS&style=for-the-badge&color=0066FF&labelColor=0D1117" alt="Stars" />
+  <img src="https://img.shields.io/github/watchers/Pragmatic-Labs-UK/Pragmatic-Labs-UK?label=WATCHERS&style=for-the-badge&color=06D6A0&labelColor=0D1117" alt="Watchers" />
+</div>
 
 ---
 

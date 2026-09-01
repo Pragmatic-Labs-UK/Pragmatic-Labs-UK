@@ -1,1 +1,3 @@
-<!-- SYSTEM COMPILATION IN PROGRESS... RUN GITHUB ACTIONS WORKFLOW TO BUILD -->
+# PragmaticLabs
+
+Initializing telemetry engine...

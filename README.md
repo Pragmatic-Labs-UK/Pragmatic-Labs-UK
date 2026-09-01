@@ -57,7 +57,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragmatic-Labs-UK&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF" alt="GitHub Commit Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Pragmatic-Labs-UK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC&icon_color=00E5FF" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/org?username=Pragmatic-Labs-UK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC&icon_color=00E5FF" alt="GitHub Stats" width="49%" />
 </div>
 
 <br/>

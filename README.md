@@ -1,55 +1,69 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vcenter=true&width=500&lines=Welcome+to+PragmaticLabs;Architecting+Modern+Software;Desktop+%26+Cloud+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vcenter=true&width=600&lines=System+Initialized...;Welcome+to+PragmaticLabs;Architecting+High-Performance+Nodes;Secure+Authentication+Frameworks" alt="Typing SVG" />
 </div>
 
-<br />
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
+  <img src="https://img.shields.io/badge/NODE-ELECTRON_%7C_SYSTEMS_%7C_API-0066FF?style=for-the-badge&logo=electron&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/SECTOR-UNITED_KINGDOM-06D6A0?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location" />
+</div>
+    
+<br/>
+
+### ⬛ SYSTEM.ABOUT // PRAGMATICLABS
+
+> **Engineering robust, scalable software architectures.** Specializing in cross-platform systems, high-performance desktop applications, game engine systems, and enterprise-grade authentication protocols.
+
+| `CURRENT.DIRECTIVES` | `CORE.ARCHITECTURE` |
+| :--- | :--- |
+| 🚀 **Building:** PragmaticLabs Desktop API Suite | ⚡ **Paradigm:** Systems & Desktop Apps |
+| 🔐 **Focus:** Secure Identity & Authentication | 🛡️ **Paradigm:** Zero-Trust Protocols |
+| 🎮 **Focus:** Interactive & Engine Tooling | 🔌 **Paradigm:** High-Throughput REST APIs |
+
+---
+
+### ⬛ SYSTEM.STACK // TECHNOLOGIES & ENGINES
+
+**LANGUAGES & RUNTIMES**  
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" /></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" /></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" /></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" /></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="Rust" /></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" /></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" /></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" title="Lua" /></code>
+
+**ENGINES, PLATFORMS & FRAMEWORKS**  
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" title="Unity" /></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" /></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" title="Electron" /></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" /></code>
+
+---
+
+### ⬛ SYSTEM.TELEMETRY // METRICS
 
 <div align="center">
-  <a href="https://github.com/Pragmatic-Labs-UK">
-    <img src="https://img.shields.io/badge/Status-Active_Development-00e5ff?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
-  </a>
-  <a href="https://github.com/Pragmatic-Labs-UK">
-    <img src="https://img.shields.io/badge/Focus-Electron_%7C_Firebase_%7C_APIs-0066ff?style=for-the-badge&logo=electron&logoColor=white" alt="Focus" />
-  </a>
-  <a href="https://github.com/Pragmatic-Labs-UK">
-    <img src="https://img.shields.io/badge/Location-United_Kingdom-06d6a0?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pragmatic-Labs-UK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC&icon_color=00E5FF" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragmatic-Labs-UK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC" alt="Top Languages" />
 </div>
 
 ---
 
-### 🛡️ About PragmaticLabs
-
-Engineering robust, scalable software solutions with a focus on seamless user experiences, dark-mode futuristic interfaces, and enterprise-grade authentication structures.
-
-* 🚀 **Currently Building:** PragmaticLabs Desktop API Suite (Electron + Firebase Auth)
-* ⚡ **Core Specialties:** Cross-platform Desktop Apps, Authentication Architecture, REST APIs
-* 🛠️ **Tech Stack:** JavaScript (ES6+), Node.js, Electron, Firebase, HTML5/CSS3
-* 📬 **Contact:** Open for collaboration and architectural consulting
-
----
-
-### 💻 Technology & Tooling
-
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" /></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" /></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" /></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" /></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" /></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" /></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /></code>
-
----
-
-### 📊 GitHub Ecosystem Metrics
+### ⬛ SECURE.COMMS // CONTACT ROUTING
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pragmatic-Labs-UK&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0e1420&title_color=00e5ff&text_color=e1e7ed&icon_color=00e5ff" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragmatic-Labs-UK&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0e1420&title_color=00e5ff&text_color=e1e7ed" alt="Top Languages" />
+  <a href="mailto:PragmaticLabsUK@hotmail.com">
+    <img src="https://img.shields.io/badge/DIRECT_CONTACT-PragmaticLabsUK%40hotmail.com-00E5FF?style=for-the-badge&logo=microsoftoutlook&logoColor=black" alt="GitHub Direct Contact" />
+  </a>
+  <a href="mailto:theo@thinkpragmatic.co.uk">
+    <img src="https://img.shields.io/badge/PERSONAL_CONTACT-theo%40thinkpragmatic.co.uk-0066FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Company Contact" />
+  </a>
 </div>
 
----
+<br/>
 
 <div align="center">
-  <p><i>Operating out of United Kingdom • Pragmatic Consultancy Limited</i></p>
+  <sub><b>OPERATING SECTOR:</b> UNITED KINGDOM • PRAGMATIC CONSULTANCY LIMITED</sub>
 </div>

@@ -63,10 +63,33 @@
 
 ### ⬛ SYSTEM.TELEMETRY // METRICS
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Pragmatic-Labs-UK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC&icon_color=00E5FF" alt="GitHub Stats" />
-</div>
-
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Pragmatic-Labs-UK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC&icon_color=00E5FF" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" valign="middle">
+      <br/>
+      <b>CORE LANGUAGE TELEMETRY</b>
+      <br/><br/>
+      <code>Python</code> 
+      <br/>
+      <img src="https://geps.dev/progress/35?dangerColor=00E5FF&warningColor=00E5FF&color=00E5FF" alt="Python Progress" />
+      <br/><br/>
+      <code>C++</code> 
+      <br/>
+      <img src="https://geps.dev/progress/25?dangerColor=0066FF&warningColor=0066FF&color=0066FF" alt="C++ Progress" />
+      <br/><br/>
+      <code>C# / .NET</code> 
+      <br/>
+      <img src="https://geps.dev/progress/20?dangerColor=06D6A0&warningColor=06D6A0&color=06D6A0" alt="C# Progress" />
+      <br/><br/>
+      <code>JavaScript / Node.js</code> 
+      <br/>
+      <img src="https://geps.dev/progress/20?dangerColor=7000FF&warningColor=7000FF&color=7000FF" alt="JS Progress" />
+    </td>
+  </tr>
+</table>
 <br/>
 
 <div align="center">

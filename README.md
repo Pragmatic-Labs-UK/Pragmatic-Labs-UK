@@ -45,8 +45,9 @@
 ### ⬛ SYSTEM.TELEMETRY // METRICS
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pragmatic-Labs-UK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC&icon_color=00E5FF" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragmatic-Labs-UK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/Pragmatic-Labs-UK?label=NETWORK%20NODES&style=for-the-badge&color=00E5FF&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Pragmatic-Labs-UK?label=SYSTEM%20STARS&style=for-the-badge&color=0066FF&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/directory-file-count/Pragmatic-Labs-UK?label=REPOSITORIES&style=for-the-badge&color=06D6A0&logo=github" alt="Repos" />
 </div>
 
 ---

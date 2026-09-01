@@ -55,36 +55,19 @@
 
 ### ⬛ SYSTEM.TELEMETRY // METRICS
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pragmatic-Labs-UK&theme=tokyonight" width="100%" alt="Profile Details" />
+</div>
+
+<br/>
+
 <table>
   <tr>
-    <td width="50%" align="center" valign="middle">
-      <br/>
-      <img src="https://img.shields.io/github/followers/Pragmatic-Labs-UK?label=FOLLOWERS&style=for-the-badge&color=00E5FF&labelColor=0D1117" alt="Followers" />
-      <br/><br/>
-      <img src="https://img.shields.io/github/stars/Pragmatic-Labs-UK?label=TOTAL%20STARS&style=for-the-badge&color=0066FF&labelColor=0D1117" alt="Stars" />
-      <br/><br/>
-      <img src="https://img.shields.io/github/search/Pragmatic-Labs-UK/Pragmatic-Labs-UK/main?label=REPOSITORIES&style=for-the-badge&color=06D6A0&labelColor=0D1117" alt="Repos" />
-      <br/><br/>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Pragmatic-Labs-UK&theme=tokyonight" width="100%" alt="Top Languages" />
     </td>
-    <td width="50%" valign="middle">
-      <br/>
-      <b>CORE LANGUAGE TELEMETRY</b>
-      <br/><br/>
-      <code>Python</code> 
-      <br/>
-      <img src="https://geps.dev/progress/35?dangerColor=00E5FF&warningColor=00E5FF&color=00E5FF" alt="Python Progress" />
-      <br/><br/>
-      <code>C++</code> 
-      <br/>
-      <img src="https://geps.dev/progress/25?dangerColor=0066FF&warningColor=0066FF&color=0066FF" alt="C++ Progress" />
-      <br/><br/>
-      <code>C# / .NET</code> 
-      <br/>
-      <img src="https://geps.dev/progress/20?dangerColor=06D6A0&warningColor=06D6A0&color=06D6A0" alt="C# Progress" />
-      <br/><br/>
-      <code>JavaScript / Node.js</code> 
-      <br/>
-      <img src="https://geps.dev/progress/20?dangerColor=7000FF&warningColor=7000FF&color=7000FF" alt="JS Progress" />
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pragmatic-Labs-UK&theme=tokyonight" width="100%" alt="Stats" />
     </td>
   </tr>
 </table>

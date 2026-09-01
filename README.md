@@ -57,7 +57,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragmatic-Labs-UK&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF" alt="GitHub Commit Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/org?username=Pragmatic-Labs-UK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC&icon_color=00E5FF" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?line1=Python,python,00E5FF;C%2B%2B,cplusplus,0066FF&line2=C%23,csharp,06D6A0;JavaScript,javascript,7000FF&bg_color=0D1117&title_color=00E5FF&line_color=A1B5CC&title=SYSTEM%20CORE%20STACK&width=400" alt="Tech Stack Telemetry" width="49%" />
 </div>
 
 <br/>
@@ -65,7 +65,7 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/Pragmatic-Labs-UK?label=FOLLOWERS&style=for-the-badge&color=00E5FF&labelColor=0D1117" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Pragmatic-Labs-UK?label=TOTAL%20STARS&style=for-the-badge&color=0066FF&labelColor=0D1117" alt="Stars" />
-  <img src="https://img.shields.io/github/watchers/Pragmatic-Labs-UK/Pragmatic-Labs-UK?label=WATCHERS&style=for-the-badge&color=06D6A0&labelColor=0D1117" alt="Watchers" />
+  <img src="https://img.shields.io/badge/ORG_STATUS-ACTIVE_NODES-06D6A0?style=for-the-badge&labelColor=0D1117" alt="Status" />
 </div>
 
 ---

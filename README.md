@@ -45,8 +45,8 @@
 ### ⬛ SYSTEM.TELEMETRY // METRICS
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Pragmatic-Labs-UK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC&icon_color=00E5FF" alt="GitHub Stats" />
-  <img height="185" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=Pragmatic-Labs-UK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Pragmatic-Labs-UK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC&icon_color=00E5FF" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pragmatic-Labs-UK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC" alt="Top Languages" />
 </div>
 
 ---

@@ -90,14 +90,6 @@
     </td>
   </tr>
 </table>
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-35%25-00E5FF?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-25%25-0066FF?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-20%25-06D6A0?style=for-the-badge&logo=csharp&logoColor=black" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-20%25-7000FF?style=for-the-badge&logo=javascript&logoColor=white" alt="JS" />
-</div>
 
 ---
 

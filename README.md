@@ -1,22 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vcenter=true&width=600&lines=System+Initialized...;Welcome+to+PragmaticLabs;Architecting+High-Performance+Nodes;Secure+Authentication+Frameworks" alt="Typing SVG" />
-</div>
 
-<div align="center">
+  <!-- HEADER TYPING SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vcenter=true&width=600&lines=System+Initialized...;Welcome+to+PragmaticLabs;Architecting+High-Performance+Nodes;Secure+Authentication+Frameworks" alt="Typing SVG" />
+
+  <br/><br/>
+
+  <!-- STATUS BADGES -->
   <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
   <img src="https://img.shields.io/badge/NODE-ELECTRON_%7C_SYSTEMS_%7C_API-0066FF?style=for-the-badge&logo=electron&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/SECTOR-UNITED_KINGDOM-06D6A0?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location" />
-</div>
 
-<br/>
+  <br/><br/>
 
-<div align="center">
+  <!-- CONTACT BUTTONS -->
   <a href="mailto:PragmaticLabsUK@hotmail.com">
     <img src="https://img.shields.io/badge/Request_Consultation-00E5FF?style=for-the-badge&logo=microsoftoutlook&logoColor=black" alt="Consult" />
   </a>
   <a href="https://github.com/Pragmatic-Labs-UK?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_Repositories-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
   </a>
+
 </div>
 
 ---

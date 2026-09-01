@@ -1,29 +1,36 @@
-name: Master README Generator
+name: Generate Dynamic README
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every night at midnight
-  workflow_dispatch: # Allows manual trigger anytime
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  build-readme:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Checkout Repository
+      - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Generate 3D Isometric Map
+      - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Compile & Commit Output
+      - name: Inject Dynamic Timestamp & Build README
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          NOW=$(date -u +"%Y-%m-%d %H:%M UTC")
+          # Replace the placeholder in README.md with the live timestamp
+          sed -i "s/{{LAST_UPDATED}}/$NOW/g" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -A .
-          git commit -m "system: automated master readme telemetry update" || exit 0
+          git commit -m "chore(auto): update dynamic 3d metrics & timestamp" || exit 0
           git push

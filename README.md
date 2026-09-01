@@ -3,7 +3,7 @@
   <!-- DYNAMIC HEADER -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00E5FF&center=true&vcenter=true&width=750&lines=System+Initialized...;Welcome+to+PragmaticLabs+UK;Architecting+High-Performance+Nodes;Secure+Authentication+Frameworks" alt="Typing SVG" />
 
-  <br/>
+  <br/><br/>
 
   <!-- METADATA BADGES -->
   <img src="https://img.shields.io/badge/ORG_STATUS-ACTIVE_DEVELOPMENT-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
@@ -30,24 +30,18 @@
 
 ### ⬛ SYSTEM.TELEMETRY // LIVE METRICS
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle" style="background-color: #0d1117;">
-      <b>COMMIT STREAK</b><br/>
-      <a href="https://github.com/Pragmatic-Labs-UK">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragmatic-Labs-UK&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF" alt="GitHub Commit Streak" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="middle" style="background-color: #0d1117;">
-      <b>TOP LANGUAGES</b><br/>
-      <a href="https://github.com/Pragmatic-Labs-UK">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragmatic-Labs-UK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC" alt="Top Languages" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragmatic-Labs-UK&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF" alt="GitHub Commit Streak" width="100%" />
+</div>
 
-**ORGANIZATION ACTIVITY STREAM**
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragmatic-Labs-UK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC" alt="Top Languages" />
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragmatic-Labs-UK&bg_color=0D1117&color=00E5FF&line=0066FF&point=00E5FF&area=true&hide_border=true&hide_title=true" alt="Activity Graph" width="100%" />
 </div>
@@ -64,26 +58,22 @@
 
 ### ⬛ SYSTEM.STACK // TECHNOLOGY MATRIX
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>CORE RUNTIMES</b>
-      <br/><br/>
-      <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" /> C++</code><br/>
-      <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="Rust" /> Rust</code><br/>
-      <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" /> C# / .NET</code><br/>
-      <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" /> Java</code>
-    </td>
-    <td width="50%" valign="top">
-      <b>SCRIPTING & PLATFORMS</b>
-      <br/><br/>
-      <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" /> Python</code><br/>
-      <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" /> Node.js</code><br/>
-      <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" title="Electron" /> Electron</code><br/>
-      <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" /> Unreal Engine</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p><b>CORE RUNTIMES & LANGUAGES</b></p>
+  <code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" /></code>
+  <code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="Rust" /></code>
+  <code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" /></code>
+  <code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" /></code>
+  <code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" /></code>
+  <code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" /></code>
+  <code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" /></code>
+  <br/><br/>
+  <p><b>ENGINES & PLATFORMS</b></p>
+  <code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" title="Electron" /></code>
+  <code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" /></code>
+  <code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" title="Unity" /></code>
+  <code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" /></code>
+</div>
 
 ---
 

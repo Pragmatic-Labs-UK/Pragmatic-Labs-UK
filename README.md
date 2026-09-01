@@ -7,12 +7,23 @@
   <img src="https://img.shields.io/badge/NODE-ELECTRON_%7C_SYSTEMS_%7C_API-0066FF?style=for-the-badge&logo=electron&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/SECTOR-UNITED_KINGDOM-06D6A0?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location" />
 </div>
-    
+
 <br/>
+
+<div align="center">
+  <a href="mailto:PragmaticLabsUK@hotmail.com">
+    <img src="https://img.shields.io/badge/Request_Consultation-00E5FF?style=for-the-badge&logo=microsoftoutlook&logoColor=black" alt="Consult" />
+  </a>
+  <a href="https://github.com/Pragmatic-Labs-UK?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_Repositories-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+  </a>
+</div>
+
+---
 
 ### ⬛ SYSTEM.ABOUT // PRAGMATICLABS
 
-> **Engineering robust, scalable software architectures.** Specializing in cross-platform systems, high-performance desktop applications, game engine systems, and enterprise-grade authentication protocols.
+> **Engineering robust, scalable software architectures.** Specializing in cross-platform systems, high-performance desktop applications, game engine tooling, and enterprise-grade security protocols.
 
 | `CURRENT.DIRECTIVES` | `CORE.ARCHITECTURE` |
 | :--- | :--- |

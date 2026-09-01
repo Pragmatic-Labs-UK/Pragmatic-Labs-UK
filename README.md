@@ -53,11 +53,13 @@
 
 ---
 
-### ⬛ SYSTEM.ACTIVITY // AUTOMATED 3D TELEMETRY
+### ⬛ SYSTEM.ACTIVITY // DYNAMIC 3D TELEMETRY
 
+<!-- AUTOMATED TELEMETRY START -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pragmatic-Labs-UK/Pragmatic-Labs-UK/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Dynamic 3D Contribution Map" width="100%" />
 </div>
+<!-- AUTOMATED TELEMETRY END -->
 
 ---
 
@@ -108,4 +110,6 @@
 
 <div align="center">
   <sub><b>OPERATING SECTOR:</b> UNITED KINGDOM • PRAGMATIC CONSULTANCY LIMITED</sub>
+  <br/>
+  <sub><b>AUTOMATION TELEMETRY:</b> LAST SYSTEM COMPILATION: {{LAST_UPDATED}}</sub>
 </div>

@@ -53,6 +53,14 @@
 
 ---
 
+### ⬛ SYSTEM.ACTIVITY // 3D ISOMETRIC TELEMETRY
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pragmatic-Labs-UK/Pragmatic-Labs-UK/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+</div>
+
+---
+
 ### ⬛ SYSTEM.TELEMETRY // METRICS
 
 <div align="center">

@@ -1,0 +1,29 @@
+name: Master README Generator
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every night at midnight
+  workflow_dispatch: # Allows manual trigger anytime
+
+jobs:
+  build-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D Isometric Map
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Compile & Commit Output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A .
+          git commit -m "system: automated master readme telemetry update" || exit 0
+          git push

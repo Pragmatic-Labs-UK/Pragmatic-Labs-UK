@@ -37,13 +37,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragmatic-Labs-UK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B5CC&langs_count=8&include_all_commits=true" alt="Top Languages" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pragmatic-Labs-UK&theme=tokyonight" alt="Top Languages Matrix" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragmatic-Labs-UK&theme=tokyonight&bg_color=0D1117&color=00E5FF&line=0066FF&point=00E5FF&area=true&hide_border=true&hide_title=true&custom_title=ORGANIZATION%20ACTIVITY%20STREAM" alt="Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pragmatic-Labs-UK&theme=tokyonight" alt="Live Activity Stats" width="100%" />
 </div>
 
 <br/>

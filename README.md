@@ -55,10 +55,20 @@
 
 ### ⬛ SYSTEM.TELEMETRY // METRICS
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragmatic-Labs-UK&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF" alt="GitHub Commit Streak" width="49%" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?line1=Python,python,00E5FF;C%2B%2B,cplusplus,0066FF&line2=C%23,csharp,06D6A0;JavaScript,javascript,7000FF&bg_color=0D1117&title_color=00E5FF&line_color=A1B5CC&title=SYSTEM%20CORE%20STACK&width=400" alt="Tech Stack Telemetry" width="49%" />
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle" style="background-color: #0d1117;">
+      <a href="https://github.com/Pragmatic-Labs-UK">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragmatic-Labs-UK&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF" alt="GitHub Commit Streak" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle" style="background-color: #0d1117;">
+      <a href="https://github.com/Pragmatic-Labs-UK">
+        <img src="https://github-readme-tech-stack.vercel.app/api/cards?line1=Python,python,00E5FF;C%2B%2B,cplusplus,0066FF&line2=C%23,csharp,06D6A0;JavaScript,javascript,7000FF&bg_color=0D1117&title_color=00E5FF&line_color=A1B5CC&title=SYSTEM%20CORE%20STACK&line_height=32&width=400" alt="Tech Stack Telemetry" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 

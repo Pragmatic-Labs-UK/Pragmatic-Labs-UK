@@ -16,46 +16,6 @@
 
 ---
 
-### ⬛ SYSTEM.ABOUT // CORE DIRECTIVES
-
-> **PragmaticLabs operates at the intersection of high-performance architecture and zero-trust security.** We engineer scalable backend services, cross-platform enterprise applications, and robust engine tooling.
-
-| `PRIMARY INITIATIVES` | `ARCHITECTURAL PARADIGMS` |
-| :--- | :--- |
-| 🚀 **Development:** Desktop API Suites | ⚡ **Execution:** Multi-threaded Systems |
-| 🔐 **Security:** Identity & Auth Frameworks | 🛡️ **Network:** Zero-Trust Protocols |
-| 🎮 **Tooling:** Interactive Engine Runtimes | 🔌 **Infrastructure:** High-Throughput REST |
-
----
-
-### ⬛ SYSTEM.TELEMETRY // LIVE METRICS
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragmatic-Labs-UK&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF" alt="GitHub Commit Streak" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pragmatic-Labs-UK&theme=tokyonight" alt="Top Languages Matrix" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pragmatic-Labs-UK&theme=tokyonight" alt="Live Activity Stats" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/Pragmatic-Labs-UK?label=FOLLOWERS&style=for-the-badge&color=00E5FF&labelColor=0D1117" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Pragmatic-Labs-UK?label=TOTAL%20STARS&style=for-the-badge&color=0066FF&labelColor=0D1117" alt="Stars" />
-  <img src="https://img.shields.io/badge/ORG_STATUS-ACTIVE_NODES-06D6A0?style=for-the-badge&labelColor=0D1117" alt="Status" />
-</div>
-
----
-
 ### ⬛ SYSTEM.STACK // TECHNOLOGY MATRIX
 
 <div align="center">
